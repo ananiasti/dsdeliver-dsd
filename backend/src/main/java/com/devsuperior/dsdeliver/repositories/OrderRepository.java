@@ -6,4 +6,5 @@ import com.devsuperior.dsdeliver.entities.Order;
 
 public interface OrderRepository extends JpaRepository<Order, Long>{
 
+	
 }
